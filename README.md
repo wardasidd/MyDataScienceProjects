@@ -56,5 +56,7 @@ Cloud Services: AWS, Google Cloud Platform, Azure
 I am always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
 Email: wardasiddiqui77@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/warda-siddiqui77
+
 Thank you for visiting my portfolio! I look forward to connecting with you.

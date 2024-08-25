@@ -3,8 +3,11 @@ Welcome to my Data Science Portfolio! I am Warda Siddiqui, a passionate data sci
 
 # Table of Contents
 About Me
+
 Projects
+
 Skills and Tools
+
 Contact
 
 # About Me

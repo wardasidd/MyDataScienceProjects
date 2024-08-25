@@ -16,19 +16,29 @@ I am a data enthusiast who loves transforming raw data into actionable insights.
 # Projects
 Here are some of the key projects I have worked on. Each project directory contains detailed information, including the project's description, objective, data sources, methods, results, and conclusions. You can also find Google Colab notebooks to run the projects directly in your browser.
 
-Project 1: [Project Name]
+# Project 1: BigMart Sales Prediction
 
-Description: A brief overview of the project and its objectives.
-Tools and Libraries Used: List of tools, programming languages, and libraries used (e.g., Python, Pandas, Scikit-Learn, etc.).
-Link: Project Directory
-Run on Colab: Google Colab Link
-Project 2: [Project Name]
+# Objective: 
+Build a predictive model to determine the sales of each product at a particular store and provide actionable recommendations to the BigMart sales team. This helps in understanding the properties of products and stores that play a key role in increasing sales.
+# Tools and Libraries Used: 
+Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-Description: A brief overview of the project and its objectives.
-Tools and Libraries Used: List of tools, programming languages, and libraries used.
-Link: Project Directory
-Run on Colab: Google Colab Link
-(Repeat the above format for each project in the repository.)
+# Project 2: Food Aggregator Demand Analysis
+
+# Objective: 
+Analyze data from a food aggregator company to understand the demand for different restaurants, aiming to enhance customer experience. The goal is to perform data analysis to answer key questions that can help improve the business.
+# Tools and Libraries Used: 
+Python, Pandas, NumPy, Matplotlib, Seaborn
+
+# Project 3: Malaria Detection using Deep Learning
+
+# Problem Definition: 
+Malaria is a life-threatening disease caused by parasites transmitted to humans through mosquito bites. Traditional diagnostic methods are slow and prone to human error. With nearly half the world’s population at risk, there is a critical need for rapid and accurate detection methods to save lives, especially among children under five who are most vulnerable.
+# Objective: 
+To build an efficient computer vision model using a Convolutional Neural Network (CNN) for the automated detection of malaria, thereby improving diagnostic accuracy and speed.
+# Tools and Libraries Used: 
+Python, TensorFlow, Keras, OpenCV, Matplotlib
+
 
 # Skills and Tools
 Throughout my career, I have developed proficiency in various data science tools and technologies, including:
